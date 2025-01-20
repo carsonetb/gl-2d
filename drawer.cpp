@@ -6,6 +6,7 @@
 #include <glm/glm.hpp>
 #include <glm/gtx/transform.hpp>
 #include <glm/gtx/rotate_vector.hpp>
+#include "freetype/include/ft2build.h"
 
 #include "drawer.hpp"
 #include "helpers.hpp"

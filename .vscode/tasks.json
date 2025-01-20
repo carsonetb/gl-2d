@@ -11,7 +11,7 @@
                 "window.cpp",
                 "drawer.cpp",
                 "-o",
-                "${fileDirname}/${fileBasenameNoExtension}",
+                "${fileDirname}/bin/${fileBasenameNoExtension}",
                 "-lGL",
                 "-lglfw",
                 "-lGLEW"
